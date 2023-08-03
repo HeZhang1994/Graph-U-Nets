@@ -43,7 +43,7 @@ validation on GPU #0.
 Code
 ----
 
-The detail implementation of Graph U-Net is in src/utils/ops.py.
+The detailed implementation of Graph U-Net is in src/utils/ops.py.
 
 
 Datasets
